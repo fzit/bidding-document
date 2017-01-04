@@ -24,9 +24,12 @@
 - 基于 ant design 的后台管理系统前端框架；[链接](https://github.com/zhaotoday/react-antd)
 - 基于 react 的移动 web 解决方案；[链接](https://github.com/zhaotoday/react)
 - 基于 webpack 的网站调试及构建方案；[链接](https://github.com/zhaotoday/multi-page-website)
-- 微信 web 应用解决方案；[链接](https://github.com/zhaotoday/react-weui)
+- 微信移动 web 应用解决方案；[链接](https://github.com/zhaotoday/react-weui)
 - 等等
 
 ## 案例
-- 中金在线门户网站 [链接](http://)
-- 99 云办公 [链接](http://)
+- 中金在线门户 [链接](http://www.cnfol.com/)
+- 99 云办公 [链接](http://oa.99.com/)
+- 网龙 99 游客户端个性装扮轻应用、PC 云端消息组件 [链接](http://im.101.com/nd)
+- 福州龙卷风网络科技有限公司官网 [链接](s)
+- 华邦（福建）光电科技有限公司官网 [链接](s)
