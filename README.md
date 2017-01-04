@@ -23,4 +23,4 @@
 - php-ci-cms：一套轻量级 PHP 框架，包含企业网站的通用模块，适用于小型企业网站和轻量级 API 服务；（出于安全考虑，不开源）
 - 基于 react + redux 的后台管理系统前端框架；[链接](http://baidu.com)
 - 基于 react + redux 的移动 web 解决方案；[链接](http://baidu.com)
-- 基于 webpack 的网站
+- 基于 webpack 的网站调试及构建方案；
