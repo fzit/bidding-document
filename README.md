@@ -3,8 +3,8 @@
 
 > 全称：福州力软信息科技有限公司  
 简称：力软科技  
-英文：Fuzhou Liruan Information Technology Co.,Ltd  
-网址：www.liruan.cn   
+英文：Fuzhou Liruan Information Technology Co.,Ltd  
+网址：www.liruan.cn  
 
 ## 业务范围
 - 微信小程序开发
