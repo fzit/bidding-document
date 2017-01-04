@@ -19,7 +19,7 @@
 
 ## 技术优势
 在长期的项目实践中，我司开发团队积累了多套项目解决方案，适用于不同业务场景，可以高效高质量的完成实际项目。
-- php-core：包含多个业务模块，如：用户中心、内容服务、订单、支付等，适用于大中型项目，已应用于多个游戏门户；[链接](https://git.oschina.net/leicc/php-core)（闭源）
+- php-core：包含多个业务模块，如：用户中心、内容服务、订单、支付等，适用于大中型项目，已应用于多个游戏门户；[链接](https://git.oschina.net/leicc/php-core)
 - php-ci-cms：基于 CodeIgniter 的一套轻量级 PHP 框架，包含企业网站的通用模块，适用于企业网站和轻量级 API 服务；[链接](https://git.oschina.net/zhaojintian/cms)（闭源）
 - 团队成员曾参与 Linux 服务器集群管理面板 - AppNode 的开发（前身 VPSMate 获阿里云开发者大赛一等奖）；[链接](https://www.appnode.com/)
 - 基于 ant design 的后台管理系统前端框架；[链接](https://github.com/zhaotoday/react-antd)
