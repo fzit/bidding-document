@@ -40,3 +40,7 @@
 - 福州龙卷风网络科技有限公司游戏官网 [链接](http://www.gltornado.com/)
 - IM 公众号平台 [链接](http://im-official.social.web.sdp.101.com/)
 - 等等
+
+## 优势
+- BAT 级的开发实力；
+- 成熟的大型项目解决方案；
