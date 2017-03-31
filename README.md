@@ -21,7 +21,7 @@
 ## 解决方案
 在长期的项目实践中，我司开发团队积累了多套项目解决方案，适用于不同业务场景，可以高效高质量的完成实际项目。出于安全问题考虑，以下部分项目非开源。
 - php core - 集成用户中心、内容服务、订单、支付等业务模块，适用于大中型项目，已应用于多个游戏门户 [链接](https://git.oschina.net/leicc/php-core)
-- php rich app - 基于 CodeIgniter 框架的轻量级 CMS，包含企业网站的通用模块，适用于企业网站和轻量级 API 服务 [链接](https://git.oschina.net/zhaojintian/cms)
+- php rich app - 一套基于 CodeIgniter 的轻量级 PHP MVC 框架，用于团队快速开发 CMS、商城和 RESTful API 服务 [链接](https://github.com/zhaotoday/php-rich-app)
 - 基于 ant design 的后台管理系统前端框架 [链接](https://github.com/zhaotoday/react-antd)
 - 基于 react 的移动 web 解决方案 [链接](https://github.com/zhaotoday/react)
 - 基于 webpack 的网站调试及构建方案 [链接](https://github.com/zhaotoday/multi-page-website)
