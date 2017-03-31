@@ -36,7 +36,7 @@
 - 福建省高级人民法院（门户、司法公开平台、网上诉讼服务中心、人大代表政协委员平台、人民法院监督员平台等） [链接](http://fjcourt.gov.cn/)
 - 福州旅游资讯网 [链接](http://fztour.gov.cn/)
 - 网龙 99 游客户端主题商城、PC 云端消息组件等 [链接](http://im.101.com/nd)
-- 福州趣玩游戏官网及用户中心 [链接](http://115.159.215.49:8080/)
+- 福州趣玩游戏官网及用户中心 [链接](http://www.quwangame.com/)
 - 福州龙卷风网络科技有限公司游戏官网 [链接](http://www.gltornado.com/)
 - IM 公众号平台 [链接](http://im-official.social.web.sdp.101.com/)
 - 等等
